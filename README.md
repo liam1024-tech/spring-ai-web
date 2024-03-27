@@ -4,6 +4,7 @@ This is a minimal example of using Vaadin to create a UI for Spring AI.
 
 ## Requirements
 - OpenAI API key saved as an environment variable `OPENAI_API_KEY`
+- Please set an environment variable `OPENAI_API_BASE_URL` if you are using OpenAI API Proxy
 - Java 21 (or beyond), e.g., by [SDKman](https://sdkman.io) (`sdk u java 21.0.2-tem`)
 
 ## Running the app
